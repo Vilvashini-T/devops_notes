@@ -330,3 +330,16 @@ git checkout <commit-id>
 ```
 You can recover.
 Interview golden answer ⭐
+---
+🏁 After Module 5
+You now know:
+✅ Basics
+✅ Branching
+✅ Merging
+✅ Staging
+✅ Collaboration
+✅ Rewriting history
+✅ Debugging
+✅ Recovery
+✅ Professional workflow
+You are officially industry-ready in Git.
