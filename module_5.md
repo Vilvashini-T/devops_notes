@@ -330,8 +330,9 @@ git checkout <commit-id>
 ```
 You can recover.
 Interview golden answer ⭐
+
 ---
-🏁 After Module 5
+# 🏁 After Module 5
 You now know:
 ✅ Basics
 ✅ Branching
@@ -342,4 +343,4 @@ You now know:
 ✅ Debugging
 ✅ Recovery
 ✅ Professional workflow
-You are officially industry-ready in Git.
+You are officially **industry-ready in Git**.
